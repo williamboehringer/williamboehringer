@@ -1,4 +1,4 @@
-## Hello Everyonew!
+## Hello Everyone!
 
 I'm currently a programming student whiling to become a web developer.
 - 👓 I work with the following programming languages: Python, HTML, CSS
